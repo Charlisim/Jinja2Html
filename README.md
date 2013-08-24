@@ -18,3 +18,7 @@ cd Jinja2Html
 python jinjatohtml.py template_file [destination_file]
 
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Charlisim/jinja2html/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
